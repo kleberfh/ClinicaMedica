@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="mysql:mysql-connector-java:5.1.40">
+    <archive path="/Users/kleberfh/Library/Mobile Documents/com~apple~CloudDocs/Code/ITE/ClinicaMedica/lib/mysql-connector-java-5.1.40.jar" />
+  </library>
+</eclipse-userlibraries>
+
